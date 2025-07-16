@@ -18,6 +18,7 @@ A **Spring Boot-based Ecommerce application** with JWT authentication, product m
 
 - **Backend:** Spring Boot, Spring Security, JWT
 - **Database:** MySQL
+- **ORM:** Spring Data JPA (Hibernate)
 - **Documentation:** Swagger (SpringDoc OpenAPI)
 - **Build Tool:** Maven
 - **IDE:** IntelliJ IDEA
