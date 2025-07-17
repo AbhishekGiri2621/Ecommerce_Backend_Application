@@ -1,4 +1,4 @@
-# 🛒 Ecommerce Site
+# 🛒 Ecommerce Backend Application
 
 A **Spring Boot-based Ecommerce application** with JWT authentication, product management, cart items, and order APIs, documented via Swagger UI.
 
